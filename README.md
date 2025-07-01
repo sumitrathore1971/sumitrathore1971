@@ -1,4 +1,4 @@
-## Hi there! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+Welcome+to+my+GitHub!;Have+a+look+around!+👀)](https://git.io/typing-svg) 👋
 
 I'm **Sumit Rathore**, an aspiring problem-solver, lifelong learner, and tech enthusiast. I'm passionate about tackling real-life challenges and always eager to learn new technologies.
 
@@ -39,3 +39,12 @@ Currently, I do not have any blog posts to share. Stay tuned for updates!
 
 -[LinkedIn](https://www.linkedin.com/in/rathore-sumit/)
 -[Instagram](https://www.instagram.com/sumit_rathore_12/)
+
+  ```
+          _ _               _   _                    
+ ___ _   _ _ __ ___ (_) |_   _ __ __ _| |_| |__   ___  _ __ ___ 
+/ __| | | | '_ ` _ \| | __| | '__/ _` | __| '_ \ / _ \| '__/ _ \
+\__ \ |_| | | | | | | | |_  | | | (_| | |_| | | | (_) | | |  __/
+|___/\__,_|_| |_| |_|_|\__| |_|  \__,_|\__|_| |_|\___/|_|  \___|
+
+```
