@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+Welcome+to+my+GitHub!;Have+a+look+around!+👀)](https://git.io/typing-svg)👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+Welcome+to+my+GitHub!;Have+a+look+around!+👀)](https://git.io/typing-svg)
 I'm **Sumit Rathore**, an aspiring problem-solver, lifelong learner, and tech enthusiast. I'm passionate about tackling real-life challenges and always eager to learn new technologies.
 
 ## About Me
