@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+Welcome+to+my+GitHub!;Have+a+look+around!+👀)](https://git.io/typing-svg)
 
+
+[![An image of @sumitrathore1971's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumitrathore1971)](https://holopin.io/@sumitrathore1971)
+
 I'm **Sumit Rathore**, an aspiring problem-solver, lifelong learner, and tech enthusiast. I'm passionate about tackling real-life challenges and always eager to learn new technologies.
 
 ## About Me
