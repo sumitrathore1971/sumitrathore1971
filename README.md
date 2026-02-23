@@ -17,6 +17,7 @@ Currently, I am exploring various technologies and working on personal projects.
 
 - [Bhu-Nirakshak](https://bhu-nirakshak-frontend.onrender.com/): A complaint system for the illegal land enrochment with seamless UI/UX. ( FrameWork: MERN)
 - [AirBnb clone](https://nestify-qu3h.onrender.com/): complete full-stack web clone of AirBnb. (FrameWork: MERN)
+- [GDG website for CDGI](https://gdg-cdgi.vercel.app/): GDG website for CDGI.
 - [real-Time-tracker](https://github.com/sumitrathore1971/real-Time-tracker): Implementing the socket.io for real-time location tracking. (⭐ 0, Language: JavaScript)
 - [Amazon_Clone](https://github.com/sumitrathore1971/Amazon_Clone): A simple web app replicating Amazon's layout using HTML and CSS. (⭐ 0, Language: HTML)
 - [ToDoList](https://github.com/sumitrathore1971/ToDoList): ToDoList made using HTML, CSS, JavaScript. (⭐ 0, Language: JavaScript)
