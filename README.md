@@ -27,19 +27,11 @@ Currently, I am exploring various technologies and working on personal projects.
 ## GitHub Stats
 
 📊 **Public Repositories**: 12  
-👥 **Followers**: 1  
-🔗 **Following**: 2  
+👥 **Followers**: 7
+🔗 **Following**: 6  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitrathore1971&show_icons=true&theme=radical)
 
-## Recent Activity
-
-Here are some of my latest GitHub activities:
-- ⭐ Started watching [n8n-io/n8n](https://github.com/n8n-io/n8n) on June 10, 2025.
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts to share. Stay tuned for updates!
 
 ## Connect with Me
 
